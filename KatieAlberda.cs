@@ -1,3 +1,3 @@
-public class KatieAlberda {
+public class KatieAlberda{
 
 }
